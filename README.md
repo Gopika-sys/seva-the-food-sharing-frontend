@@ -8,6 +8,7 @@ Collaboratively built with a UI/UX Designer, using ReactJS, Styled-JSX, ExpressJ
 
  - [Ganesh Prabhu](https://github.com/prabu411)
  - [Gowshekan](https://github.com/Gowshekan)
+ - [Gopika](https://github.com/Gopika-sys)
 
 ## Features
  - User can select various types of NGO for food donation.

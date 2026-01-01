@@ -35,7 +35,7 @@ Collaboratively built with a UI/UX Designer, using ReactJS, Styled-JSX, ExpressJ
 
 2.This is the profile page of our Website.
 
-![image (2)](https://user-images.githubusercontent.com/86429170/141606888-e0b3e138-3d20-4d13-86c0-1097e183ad78.png)
+![image (2)](C:\Users\Gopika\OneDrive\Pictures\Screenshots\Screenshot 2026-01-01 225333.png)
 
 3. This pages shows the list of NGOs.
 

@@ -34,10 +34,10 @@ Collaboratively built with a UI/UX Designer, using ReactJS, Styled-JSX, ExpressJ
 
 
 2.This is the profile page of our Website.
-
-<p allign="center">
-![Profile Page](public/images/Screenshot-2026-01-01-225333.png)
+<p align="center">
+  <img src="public/images/Screenshot-2026-01-01-225333.png" alt="Profile Page" />
 </p>
+
 
 
 3. This pages shows the list of NGOs.

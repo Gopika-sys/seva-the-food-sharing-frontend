@@ -35,7 +35,11 @@ Collaboratively built with a UI/UX Designer, using ReactJS, Styled-JSX, ExpressJ
 
 2.This is the profile page of our Website.
 
+<<<<<<< HEAD
 ![Profile Page](public/images/Screenshot-2026-01-01-225333.png)
+=======
+![Profile Page](https://github.com/Gopika-sys/seva-the-food-sharing-app-main/raw/main/public/images/Screenshot-2026-01-01-225333.png)
+>>>>>>> 66d6b87 (Remove old image and update README)git add <file>
 
 
 
